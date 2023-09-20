@@ -1,0 +1,10 @@
+ul li {
+    display: inline;
+    margin: 2px;
+    padding: 3px;
+    background: greenyellow;
+}
+
+ul li a {
+    /* color: #fff; */
+}
